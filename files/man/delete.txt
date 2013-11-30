@@ -1,0 +1,7 @@
+
+delete command
+
+Usage:
+delete [file]
+
+delete is the command to delete a file.

@@ -1,0 +1,7 @@
+
+cd command
+
+Usage:
+cd [folder]
+
+cd is the command to change the current folder.

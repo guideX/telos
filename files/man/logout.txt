@@ -1,0 +1,7 @@
+
+Logout command
+
+Usage:
+Logout
+
+Logout is the command to logout from the server and end the session.

@@ -1,0 +1,7 @@
+
+ls command
+
+Usage:
+ls
+
+ls is the command to view the contents of the current folder.

@@ -1,0 +1,10 @@
+
+Createuser command
+
+Usage:
+createuser
+
+Createuser is the command to create a new user.
+
+You will be prompted for a user name, password, and a yes/no answer
+for weather or not the new user will have superuser powers.

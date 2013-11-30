@@ -1,0 +1,7 @@
+
+pwd command
+
+Usage:
+pwd
+
+pwd is the command to view the name of the current folder.

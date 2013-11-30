@@ -1,0 +1,7 @@
+
+Shutdown command
+
+Usage:
+Shutdown [time]
+
+Shutdown is the command to kill the server after a specified time.

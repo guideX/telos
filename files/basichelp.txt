@@ -1,0 +1,12 @@
+CD         Change the current folder.
+CREATEUSER Create a new user.
+DELETE     Delete a file
+GET, TYPE  View the contents of a file.
+HOME       Returns you to the home directory.
+HELP       Displays help information.
+LIST       List users online.
+EXIT       Logout from the server and end the session.
+LS or DIR  View the contents of the current folder
+MOTD       View todays 'Message of the Day
+PWD        View the name of the current folder.
+SHUTDOWN   Kill the server after a specified time.

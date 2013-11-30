@@ -1,0 +1,9 @@
+In a few moments, you will become a member of this system. But, before you can log in, you must read the following rules ...
+
+1) No hacking
+2) No piracy
+3) Nothing illegal
+4) Authorized users only
+
+If you agree to these rules and wish to login for the first time, type y, otherwise type n
+[ Agree? Y/N ]

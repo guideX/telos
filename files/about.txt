@@ -1,0 +1,4 @@
+Team Nexgen
+Telos
+
+Telos is a command line operating system that can be accessed online from any computer (mac, pc, more) capable of connecting to a telnet server. Telos was developed by Leon J Aiossa for the purpose of learning the command-line linux operating system for an operating system class he attended at St. Paul College without actually running linux.
